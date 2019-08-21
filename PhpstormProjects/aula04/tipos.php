@@ -15,3 +15,4 @@
 </div>
 </body>
 </html>
+    /*Onde parei na aula Variáveis em PHP - Curso PHP Iniciante #04 - Gustavo Guanabara 19:00*/
